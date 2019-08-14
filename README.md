@@ -1,6 +1,11 @@
 MonoGame-WinFormsControls
 =========================
 
+https://jaquadro.com/2013/04/monogame-winforms-repository/
+https://jaquadro.com/2013/03/embedding-your-monogame-game-in-a-winforms-control/
+https://jaquadro.com/2013/03/bringing-your-xna-winforms-controls-to-monogame-opengl/
+https://gamedev.stackexchange.com/questions/42166/xna-windows-forms-how-make-them-work-together-without-making-the-trick-of-the
+
 This project contains a library with basic controls for embedding MonoGame content in WinForms.  The library can be used as-is, or it can be integrated directly into your codebase for further customization.
 
 The control code is originally derived from the MSDN tutorial [WinForms Series 1: Graphics Device][1].
@@ -8,7 +13,7 @@ The control code is originally derived from the MSDN tutorial [WinForms Series 1
 This code also supports a series of tutorials on embedding MonoGame in WinForms:
 * [Bringing your XNA WinForms Controls to MonoGame + OpenGL][2]
 * [Embedding Your MonoGame Game in a WinForms Control][3]
-* [MonoGame + WinForms: Where’s My Keyboard?][4]
+* [MonoGame + WinForms: Whereâ€™s My Keyboard?][4]
 
 The intent is for this repository to unify the tutorials into a single solution that can be used as a template for actual projects.
 
